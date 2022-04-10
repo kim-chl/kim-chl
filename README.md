@@ -7,3 +7,10 @@
 
 
 [![visit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-chl&count_bg=%2340ABC2&title_bg=%23726F6F&icon=postwoman.svg&icon_color=%2357976A&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+## STACK
+
+<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white"> &nbsp;  <img src="https://img.shields.io/badge/Adobe InDesign-FF3366?style=for-the-badge&logo=Adobe InDesign&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/Adobe Dreamweaver-FF61F6?style=for-the-badge&logo=Adobe Dreamweaver&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=white"> &nbsp;
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> 
