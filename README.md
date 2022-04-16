@@ -6,7 +6,7 @@
 
 
 
-[![visit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-chl&count_bg=%2340ABC2&title_bg=%23726F6F&icon=postwoman.svg&icon_color=%2357976A&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![visit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-chl&count_bg=%2344C83D&title_bg=%23515050&icon=postwoman.svg&icon_color=%2344C83D&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 ## STACK
